@@ -6,6 +6,7 @@
             "approve": true,
             "matchCommandLine": true
         },
-        "mv": true
+        "mv": true,
+        "npx create-react-app": true
     }
 }
